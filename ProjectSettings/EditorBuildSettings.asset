@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Scenes/Login.unity
+    guid: 7b1ee3a4e21894044a7ff9e2b3d03308
+  - enabled: 1
+    path: Assets/Main Scenes/StartMenu.unity
+    guid: 438bebc5d986f8b4298b5d62ea836006
+  - enabled: 1
+    path: Assets/Main Scenes/MotionTracker.unity
+    guid: 8d96a19cfff8a364f9f4cc627b3870b3
+  - enabled: 1
+    path: Assets/Main Scenes/GameOver.unity
+    guid: 53c7c5cb6abe17046a43c2ee1aadf7c0
+  m_configObjects: {}
